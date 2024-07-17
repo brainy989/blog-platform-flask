@@ -77,3 +77,14 @@ Given more time, the following features and improvements could be implemented:
     ```bash
     python3 run.py
     ```
+
+6. **Run the Tests**:
+    ```bash
+    python -m unittest discover tests
+    ```
+
+    or
+
+    ```bash
+    pytest tests/
+    ```
