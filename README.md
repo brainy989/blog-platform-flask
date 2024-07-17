@@ -41,8 +41,8 @@ Given more time, the following features and improvements could be implemented:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/blog-application.git
-    cd blog-application
+    git clone https://github.com/brainy989/blog-platform-flask.git
+    cd blog-platform-flask
     ```
 
 2. **Create and activate a virtual environment**:
@@ -67,7 +67,7 @@ Given more time, the following features and improvements could be implemented:
         TEST_SECRET_KEY=your_test_secret_key
         ```
 
-5. ***Run the application***:
+5. **Run the application**:
     ```bash
     flask run
     ```
